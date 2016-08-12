@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="5dp"
+    android:id="@+id/fragment_listado_detalle_cardview"
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:id="@+id/fragment_listado_detalle_imagen"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="bottom"
+        android:background="#c9000000"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/fragment_listado_detalle_nombre_producto"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:text="hasjhd"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/fragment_listado_detalle_precio"
+            android:textColor="#5fd62c"
+            android:text="$5000"
+            android:textSize="20sp"
+            />
+
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>

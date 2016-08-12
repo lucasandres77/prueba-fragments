@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_48c0c3aa36c5aeb2cbe67bc06315a04fd2946fe2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_fece90276dbfe4dc0f003c2bd34d00b3710b0a76/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="667e0aa0eeae3496189ab522ea35a9b886cbe4a9">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6b1e429b5efae40cbef87416c801195adaf84912/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_5a53985f13cdcb95b485b6561edb2be94dea733e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_cb5406896e9a3ac348f78acc257e9336b95c5570/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_bfffa39db012b7ad997130769c0aeefc3655ce97/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_3a02d083620f3cd0045a9802f077bce5e851710e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4127c10b0a1e42586b434130c2a764ccdf8f781e">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_717e072d02b20edd1465b09eaae6978ad839f9ec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/Lucas/Documents/AB mobile/Entregable/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_a6ee8b0d4781deaa096596bf7b60939754102a36/classes.dex" />
+    </item>
+
+</items>

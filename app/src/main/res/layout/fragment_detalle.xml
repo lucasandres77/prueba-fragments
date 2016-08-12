@@ -1,0 +1,75 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lucas.entregable.FragmentDetalle"
+    android:orientation="vertical"
+    android:background="#C5CAE9">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:elevation="5dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:scaleType="centerCrop"
+        android:id="@+id/fragment_detalle_imagen"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/fragment_detalle_nombreProducto"
+            android:text="Audi"
+            android:textColor="#FFFFFF"
+            android:textSize="50sp"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="10dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/fragment_detalle_precioProducto"
+            android:text="$5000"
+            android:textSize="30sp"
+            android:textColor="#FF4081"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="5dp"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/fragment_detalle_vendedor"
+            android:text="Juan"
+            android:textColor="#FFFFFF"
+            android:gravity="center_horizontal"
+            android:textSize="15sp"
+            android:layout_marginBottom="25dp"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/fragment_detalle_descripcionProducto"
+            android:text="jsdjdsfalkjh añlsdjfadslkj fdlñkjadsñ "
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:gravity="center_horizontal"/>
+
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
